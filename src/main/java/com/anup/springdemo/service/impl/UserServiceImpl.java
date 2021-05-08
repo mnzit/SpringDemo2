@@ -5,7 +5,6 @@ import com.anup.springdemo.repository.UserMemoryRepository;
 import com.anup.springdemo.response.GenericResponseWrapper;
 import com.anup.springdemo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
